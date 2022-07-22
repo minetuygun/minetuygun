@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/b3L_KIiGcHEAAAAC/code-deep-turkish.gif" align="right" width="400" height="250">
+<!-- <img src="https://c.tenor.com/b3L_KIiGcHEAAAAC/code-deep-turkish.gif" align="right" width="400" height="250"> -->
 
 <h1 align="left">
   <a href="https://git.io/typing-svg">
