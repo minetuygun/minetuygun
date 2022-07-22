@@ -17,8 +17,8 @@
 <br />
 <br />
 
-
 ### Tech I use
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -27,8 +27,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=style=flat-square&logo=react&logoColor=61DAFB)
 <br />
 <br />
 
@@ -42,12 +42,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minetuygun&theme=react" >
 </details>
 
-
-
-[twitter]: https://twitter.com/illakikonusuruz
-[linkedin]: https://www.linkedin.com/in/buse-ad%C4%B1belli-7a684a200/
-[behance]: https://www.behance.net/bsnradblli5f34
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ayseatess0R"><img src="https://i.hizliresim.com/jing4y1.png" width="200" /></a>
+[linkedin]: https://www.linkedin.com/in/mine-tuygun-4b3a3a236/
