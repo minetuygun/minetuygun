@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-## Junior Mobile Developer
+## Junior Developer
 
 <font color="#F738A0FF">turkish coffee ☕ is how i keep up with `<code/>` </font>
 
