@@ -32,14 +32,15 @@
 <br />
 <br />
 
-<details>
-<summary> ⭐ Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=minetuygun&theme=react" >
-</details>
 
-<details>
+
 <summary> ⭐  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minetuygun&theme=react" >
-</details>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minetuygun&layout=compact&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)
+
+[![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=minetuygun&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)
+<details>
+
 
 [linkedin]: https://www.linkedin.com/in/mine-tuygun-4b3a3a236/
